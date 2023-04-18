@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "423916292616",
+    "project_id": "chat-mrg",
+    "storage_bucket": "chat-mrg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423916292616:android:348098de0db82f00115fbd",
+        "android_client_info": {
+          "package_name": "ir.mrghost.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423916292616-bosuek6k0qjj4neergu1icfph391ust2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6kaDQDi1WiEUUcbQmytsmYs7eEDg5ETE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423916292616-bosuek6k0qjj4neergu1icfph391ust2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
